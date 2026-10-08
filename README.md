@@ -206,7 +206,8 @@ The planned video will demonstrate:
 - Tactical encounter flow
 
 ## Playable Build
-A Windows playable build will be provided when the portfolio build is ready.
+
+[Download Still Hunt v1.0.0 - Windows](https://github.com/LeoNerdTornado/StillHunt-Portfolio/releases/latest)
 
 ## Development Philosophy
 Still Hunt is being developed as both a game prototype and a software engineering portfolio project.
