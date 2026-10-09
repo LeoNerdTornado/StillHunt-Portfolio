@@ -16,7 +16,13 @@ The goal is to create encounters where understanding movement and environmental 
 
 A short gameplay demonstration of the current Still Hunt prototype.
 
-[Watch / download gameplay demo](./Portfolio/Video/still-hunt-encounter-clip01.mp4)(./Portfolio/Video/StillHunt-Encounter-p-v-ai.mp4)
+**Full Gameplay — Player vs AI**
+
+[Watch / download full gameplay demo](./Portfolio/Video/StillHunt-Encounter-p-v-ai.mp4)
+
+**Short Gameplay Clip**
+
+[Watch / download short gameplay clip](./Portfolio/Video/still-hunt-encounter-clip01.mp4)
 
 The demonstration shows:
 - Player movement
