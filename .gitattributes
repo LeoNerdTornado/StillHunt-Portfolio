@@ -1,3 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
-*.mp4 filter=lfs diff=lfs merge=lfs -text
+/Portfolio/Video/StillHunt-Encounter-p-v-ai.mp4 filter=lfs diff=lfs merge=lfs -text
+
+/Portfolio/Video/still-hunt-encounter-clip01.mp4 filter=lfs diff=lfs merge=lfs -text
