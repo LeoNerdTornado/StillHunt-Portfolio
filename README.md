@@ -14,20 +14,23 @@ The goal is to create encounters where understanding movement and environmental 
 
 ## Gameplay Demo
 
-A short gameplay demonstration of the current Still Hunt prototype.
+Still Hunt is a Unity 3D tactical stealth prototype featuring player movement, observation, cover interaction, Guard AI patrol behavior, and AI navigation recovery.
 
-**Full Gameplay — Player vs AI**
+### Full Gameplay — Player vs AI
 
-[Watch / download full gameplay demo](./Portfolio/Video/StillHunt-Encounter-p-v-ai.mp4)
+- **Download MP4:** [Download full gameplay demo](./Portfolio/Video/StillHunt-Encounter-p-v-ai.mp4)
+- **Watch on portfolio website:** [Watch full gameplay demo](https://LeoNerdTornado.github.io/StillHunt-Portfolio/watch.html#full)
+- **Watch on YouTube:** [Watch full gameplay demo on YouTube](https://www.youtube.com/watch?v=Ce8DMp0N25E)
 
-**Short Gameplay Clip**
+### Short Gameplay Clip
 
-[Watch / download short gameplay clip](./Portfolio/Video/still-hunt-encounter-clip01.mp4)
+- **Download MP4:** [Download short gameplay clip](./Portfolio/Video/still-hunt-encounter-clip01.mp4)
+- **Watch on portfolio website:** [Watch short gameplay clip](https://LeoNerdTornado.github.io/StillHunt-Portfolio/watch.html#short)
+- **Watch on YouTube:** [Watch short gameplay clip on YouTube](https://www.youtube.com/watch?v=WdSCFupzT54)
 
-The demonstration shows:
-- Player movement
-- Observation
-- Cover interaction
+The demonstrations show:
+- Player movement and observation
+- Cover interaction and tactical positioning
 - Guard patrol behavior
 - AI navigation recovery
 - Tactical encounter flow
