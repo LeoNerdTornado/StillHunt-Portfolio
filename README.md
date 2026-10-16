@@ -213,7 +213,11 @@ The planned video will demonstrate:
 
 ## Playable Build
 
-[Download Still Hunt v1.0.0 - Windows](https://github.com/LeoNerdTornado/StillHunt-Portfolio/releases/latest)
+**Play in your browser:** [Still Hunt — Prototype v1](https://play.unity.com/en/games/f03b2a95-a075-4990-a3fb-c14e78314186/stillhunt-webgl-brotli)
+
+**Download for Windows:** [Still Hunt v1.0.0](https://github.com/LeoNerdTornado/StillHunt-Portfolio/releases/latest)
+
+> **Prototype status:** This version demonstrates first-person movement, aiming, cover interaction, and a Guard AI encounter. Future Built-Up: Footprint tracking, bird reactions, environmental sound detection, and advanced deception mechanics are planned for future versions.
 
 ## Development Philosophy
 Still Hunt is being developed as both a game prototype and a software engineering portfolio project.
